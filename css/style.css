@@ -11,7 +11,9 @@ body {
   background-color: #4f5b59;
   color: #fff;
 }
-
+html {
+  scroll-behavior: smooth;
+}
 /* navbar */
 .navbar {
   display: flex;
